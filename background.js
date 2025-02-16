@@ -1,0 +1,1 @@
+console.log("PC Click Effect Extension Loaded.");
